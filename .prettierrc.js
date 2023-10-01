@@ -14,7 +14,6 @@ module.exports = {
     ],
     importOrder: [
         'expo/build/Expo.fx',
-        '^(react)$',
         '<THIRD_PARTY_MODULES>',
         '^[./]',
     ],
